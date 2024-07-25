@@ -7,4 +7,7 @@ To run the model, use Arduino IDE, compile, and run the project on an Arduino Na
 
 TensorflowLite library should be added to the Arduino IDE (library Zip file is included in library folder) or can be downloaded from : https://github.com/tensorflow/tflite-micro-arduino-examples     
 
+![alt text](images/arduino_nano_33.png)
+
+
  
